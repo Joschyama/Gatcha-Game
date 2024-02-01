@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 150%;
+}
+button {
+    font-size: 800%;
+    height: 512px;
+    width: 450px;
+    border-radius: 1000px;
+    background-image: url(https://i.postimg.cc/BnS53tyw/Whats-App-Bild-2024-01-26-um-11-14-37-2f947e21.jpg);
+}
